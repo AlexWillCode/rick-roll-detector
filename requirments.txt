@@ -1,0 +1,6 @@
+face-recognition
+opencv-python
+youtube-dl
+pafy
+pillow
+numpy

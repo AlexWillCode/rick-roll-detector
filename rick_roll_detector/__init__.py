@@ -1,0 +1,3 @@
+from rick_roll_detector.image import verify_image
+from rick_roll_detector.video import verify_video
+from rick_roll_detector.youtube import verify_youtube_video

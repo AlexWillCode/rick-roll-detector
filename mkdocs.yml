@@ -1,0 +1,37 @@
+site_name: rick-roll-detector
+site_description: Documenation for rick-roll-detector
+site_author: AlexWillCode
+repo_url: https://github.com/alexwillcode/rick-roll-detector
+repo_name: rick-roll-detector
+copyright: Copyright © 2021 - 2022 AlexWillCode
+
+nav:
+  - Home: index.md
+  - Getting Started: getting_started.md
+  - Image: image.md
+  - Video: video.md
+  - Youtube: youtube.md
+  - API: api.md
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+extra:
+  social:
+  - icon: "fontawesome/brands/github"
+    link: https://github.com/alexwillcode
+    name: AlexWillCode on Github
+
+markdown_extensions:
+  - pymdownx.superfences
+  - toc:
+      permalink: true
