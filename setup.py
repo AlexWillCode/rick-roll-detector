@@ -5,8 +5,7 @@ __license__ = "MIT"
 
 DESCRIPTION = "A Python package that detects if an image, video, or Youtube video is a Rick Roll."
 CLASSIFIERS = [
-    "Programming Language :: Python :: 3",
-    "Operating System :: MacOS :: Linux"
+    "Programming Language :: Python :: 3"
 ]
 
 
