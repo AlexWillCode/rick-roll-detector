@@ -1,6 +1,6 @@
 from setuptools import setup
 
-__version__ = "1.0.0"
+__version__ = "1.1.0"
 __license__ = "MIT"
 
 DESCRIPTION = "A Python package that detects if an image, video, or Youtube video is a Rick Roll."
