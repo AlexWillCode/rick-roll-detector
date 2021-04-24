@@ -11,6 +11,7 @@ nav:
   - Image: image.md
   - Video: video.md
   - Youtube: youtube.md
+  - Command Line: cli.md
   - API: api.md
 
 theme:
