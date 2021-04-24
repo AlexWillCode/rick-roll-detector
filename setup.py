@@ -19,6 +19,10 @@ setup(
     license=__license__,
     classifiers=CLASSIFIERS,
     packages=["rick_roll_detector"],
+    entry_points='''
+        [console_scripts]
+        rick-roll-detector=rick_roll_detector.cli:cli
+    ''',
     include_package_data=True,
     install_requires=[
         "face-recognition",
@@ -26,6 +30,7 @@ setup(
         "youtube-dl",
         "pafy",
         "pillow",
-        "numpy"
+        "numpy",
+        "click"
     ]
 )
