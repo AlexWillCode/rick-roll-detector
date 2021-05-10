@@ -31,6 +31,12 @@ extra:
   - icon: "fontawesome/brands/github"
     link: https://github.com/alexwillcode
     name: AlexWillCode on Github
+  - icon: "fontawesome/brands/twitter"
+    link: https://twitter.com/alexwillcode
+    name: AlexWillCode on Twitter
+  - icon: "fontawesome/brands/discord"
+    link: https://discord.gg/ER9YmDkZ7B
+    name: AlexWillCode's OSS Server
 
 markdown_extensions:
   - pymdownx.superfences
