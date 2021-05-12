@@ -1,6 +1,6 @@
 # Image
 
-You can scan an image file using the [verify_image](/rick-roll-detector/api/#rick_roll_detectorverify_imageimage-numpyarray-bool/) function.
+You can scan an image file using the [verify_image](api.md#rick_roll_detectorverify_imageimage-numpyarray-bool) function.
 
 First let's import the necessary packages.
 ```python
@@ -15,7 +15,7 @@ image = PIL.Image.open("YOUR_IMAGE_PATH")
 image_array = numpy.array(image)
 ```
 
-Now let's use the [verify_image](/rick-roll-detector/api/#rick_roll_detectorverify_imageimage-numpyarray-bool/) function.
+Now let's use the [verify_image](api.md#rick_roll_detectorverify_imageimage-numpyarray-bool) function.
 ```python
 if verify_image(image_array):
     print("The image is a Rick Roll!")
