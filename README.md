@@ -1,3 +1,6 @@
+## ⚠️ Attention: Deprecated
+This repository is no longer maintained. The original README is below.
+
 <p align="center"><a href="https://github.com/alexwillcode/rick-roll-detector"><img src="logo/triangle/logo_triangle_256.png" height="150"/></a></p>
 
 <h1 align="center">rick-roll-detector</h1>
